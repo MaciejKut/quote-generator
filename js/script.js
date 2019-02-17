@@ -30,5 +30,5 @@ function createTweet(input) {
         document.querySelector('.tweet').setAttribute('href', tweet);
     }
 
-    createTweet();
+
 }
