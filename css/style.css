@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main .box {
+  display: block;
+}
+
+main button {
+  display: block;
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
